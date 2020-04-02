@@ -1,6 +1,14 @@
-{
+[
+    {
     "type": "Galaxy",
     "color": "green",
     "number": 4,
     "model": ["s8","s8plus","s9","s9pluys"]
+},
+{
+    "type": "Iphone",
+    "color": ["yellow","space grey"],
+    "number": 10,
+    "model": ["xs","xsMax","pro","proMax"]   
 }
+]
