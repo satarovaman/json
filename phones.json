@@ -1,4 +1,6 @@
 {
     "type": "Galaxy",
-    "color": "green"
+    "color": "green",
+    "number": 4,
+    "model": ["s8","s8plus","s9","s9pluys"]
 }
