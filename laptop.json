@@ -1,6 +1,8 @@
 {
-    "make":"moskvich",
-    "model":"kombi",
-    "color":["yellow","pink"],
-    "package":"sport edition"
+ "model": "hewletpackard",
+ "model": "probook",
+ "size":{
+     "Heiht":0.80,
+     "width": 12.50
+ }
 }
